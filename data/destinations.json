@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Pantai Talise", "category": "pantai", "regionId": 1 },
+  { "id": 2, "name": "Danau Poso", "category": "danau", "regionId": 2 },
+  { "id": 3, "name": "Kepulauan Togean", "category": "bahari", "regionId": 4 },
+  { "id": 4, "name": "Pusentasi", "category": "pantai", "regionId": 3 },
+  { "id": 5, "name": "Air Terjun Saluopa", "category": "alam", "regionId": 2 }
+]
